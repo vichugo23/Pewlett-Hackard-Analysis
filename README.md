@@ -15,7 +15,7 @@ I used PGAdmin4 and PostgressSQL to create tables and organize the data to creat
 
 
 -First, I created a table with all the employees that have already retired. Although some of the employees are shown more than once on this table due to some position changes they had throughout the years of working in the company.
-a <br />
+______________________________________________________________________________________________________________________________________________________________________
 
 
 
