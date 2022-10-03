@@ -37,4 +37,13 @@ ________________________________________________________________________________
 - Lastly, I created another table showing the employees getting near to their retirement that qualify for the mentorship program. The list is huge and this would greatly benefit the company by allowing the qualifying employees to work part-time while they mentor the new hires and make the transition easier.
 _______________________________________________________________________________________________________________________________________________________________________
 
+## SUMMARY
+
+By taking a look at the csv files that I created we can see that about 72,500 employees are getting ready to retire. You can see by looking at the bottom of the "unique_titles" table shown below.
+![Screen Shot 2022-10-02 at 9 09 00 PM](https://user-images.githubusercontent.com/110702997/193489516-24555a7a-c981-4d83-9be5-488249a6f569.png)
+
+
+
+
+
 -
