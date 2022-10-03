@@ -10,4 +10,5 @@ I used PGAdmin4 and PostgressSQL to create tables and organize the data to creat
 ## RESULTS
 
 ![Screen Shot 2022-10-02 at 8 27 26 PM](https://user-images.githubusercontent.com/110702997/193486515-4b4a9b34-67fa-4abc-8ed8-75f9977560b9.png)
+
 First, I created a table where the count of all the employees that are retiring are shown and organized by the position or "title" that they have within the company. As you can see most of the employees retiring are the ones with the "senior" positions. As they have been in the company the longest.
