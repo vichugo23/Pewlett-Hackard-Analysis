@@ -48,4 +48,9 @@ By taking a look at the csv files that I created we can see that about 72,500 em
 Now this would mean about the same number, if not MORE, of new hires would be needed to replace all of these employees that have left and that are planning to retire in the near future.
 
 
+As of right now, only *1,550 senior employees* qualify to participate in the mentorship program.
+
+![Screen Shot 2022-10-02 at 9 13 05 PM](https://user-images.githubusercontent.com/110702997/193489820-7d962ccc-3678-4885-98bd-5376f7fc17b7.png)
+
+Even though this is a great program to help the new hires used to working in their new job, 1,550 mentors is no where near enough to be able to teach all of the 72,500 potential new employees. Either more people should be able to qualify for the mentorship program or have some employees stick around a little bit longer in the company to be able to fufill the companies needs.
 -
