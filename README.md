@@ -40,6 +40,8 @@ ________________________________________________________________________________
 ## SUMMARY
 
 By taking a look at the csv files that I created we can see that about 72,500 employees are getting ready to retire. You can see by looking at the bottom of the "unique_titles" table shown below.
+
+
 ![Screen Shot 2022-10-02 at 9 09 00 PM](https://user-images.githubusercontent.com/110702997/193489516-24555a7a-c981-4d83-9be5-488249a6f569.png)
 
 
