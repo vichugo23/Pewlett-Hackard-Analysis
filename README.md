@@ -45,7 +45,7 @@ By taking a look at the csv files that I created we can see that about 72,500 em
 ![Screen Shot 2022-10-02 at 9 09 00 PM](https://user-images.githubusercontent.com/110702997/193489516-24555a7a-c981-4d83-9be5-488249a6f569.png)
 
 
-
+Now this would mean about the same number, if not MORE, of new hires would be needed to replace all of these employees that have left and that are planning to retire in the near future.
 
 
 -
