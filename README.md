@@ -16,4 +16,4 @@ First, I created a table where the count of all the employees that are retiring 
 
 ![Screen Shot 2022-10-02 at 8 33 30 PM](https://user-images.githubusercontent.com/110702997/193486993-c040d670-1b42-4e1c-b5c1-43c3b6766ad7.png)
 
-Next I created another table showing the employees getting near to their retirement that qualify for the mentorship program. The list is huge and this would greatly benefit the company by allowing the qualifying employees to work part-time while they they mentor the new hires and make the transition easier.
+Next I created another table showing the employees getting near to their retirement that qualify for the mentorship program. The list is huge and this would greatly benefit the company by allowing the qualifying employees to work part-time while they mentor the new hires and make the transition easier.
