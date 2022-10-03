@@ -17,7 +17,15 @@ I used PGAdmin4 and PostgressSQL to create tables and organize the data to creat
 - First, I created a table with all the employees that have already retired. Although some of the employees are shown more than once on this table due to some position changes they had throughout the years of working in the company.
 ______________________________________________________________________________________________________________________________________________________________________
 
+![Screen Shot 2022-10-02 at 8 54 59 PM](https://user-images.githubusercontent.com/110702997/193488394-8779189b-8fa2-4c34-ab00-9a6363e125cd.png)
 
+- Next, I removed the employees that have already retired from the list. Also I modified this table to show the employees' most recent title, not the title that they were hired as when they first started. This resolved the issue of having duplicate values for the employees that have had promotions throughout the years.
+
+
+
+
+
+_______________________________________________________________________________________________________________________________________________________________________
 
 ![Screen Shot 2022-10-02 at 8 27 26 PM](https://user-images.githubusercontent.com/110702997/193486515-4b4a9b34-67fa-4abc-8ed8-75f9977560b9.png)
 
